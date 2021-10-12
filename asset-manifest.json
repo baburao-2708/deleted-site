@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://baburao-2708.github.io/csb-1wokh/static/css/main.bab0b925.chunk.css",
+    "main.js": "https://baburao-2708.github.io/csb-1wokh/static/js/main.8a3a3ce8.chunk.js",
+    "main.js.map": "https://baburao-2708.github.io/csb-1wokh/static/js/main.8a3a3ce8.chunk.js.map",
+    "runtime-main.js": "https://baburao-2708.github.io/csb-1wokh/static/js/runtime-main.ef5985f7.js",
+    "runtime-main.js.map": "https://baburao-2708.github.io/csb-1wokh/static/js/runtime-main.ef5985f7.js.map",
+    "static/js/2.16af4210.chunk.js": "https://baburao-2708.github.io/csb-1wokh/static/js/2.16af4210.chunk.js",
+    "static/js/2.16af4210.chunk.js.map": "https://baburao-2708.github.io/csb-1wokh/static/js/2.16af4210.chunk.js.map",
+    "index.html": "https://baburao-2708.github.io/csb-1wokh/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "https://baburao-2708.github.io/csb-1wokh/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.16af4210.chunk.js.LICENSE.txt": "https://baburao-2708.github.io/csb-1wokh/static/js/2.16af4210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5985f7.js",
+    "static/js/2.16af4210.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.8a3a3ce8.chunk.js"
+  ]
+}
